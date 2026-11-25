@@ -1,0 +1,6 @@
+{
+  "name": "Vaultline",
+  "description": "Offline-first encrypted password manager with deterministic Smart Import, TOTP authenticator, password generator, and local security audit.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
